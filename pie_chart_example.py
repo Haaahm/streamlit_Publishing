@@ -4,7 +4,7 @@ import random
 import pandas as pd
 
 # 데이터생성
-df = pd.read_csv("C:\Users\Ham\OneDrive\바탕 화면\데이터분석스쿨\krx_data_2022_trade.csv")
+df = pd.read_csv("C:\\Users\\Ham\\OneDrive\\바탕 화면\\데이터분석스쿨\\krx_data_2022_trade.csv")
 
 # 차트 그리기
 fig = go.Figure(data=[go.Pie(df)])
