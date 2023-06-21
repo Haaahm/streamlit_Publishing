@@ -1,5 +1,3 @@
-# pip install streamlit, pandas, plotly, openpyxl 터미널 실행 후 작업 시작 
-
 import pandas as pd
 import streamlit as st
 import plotly.express as px
